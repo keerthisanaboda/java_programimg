@@ -9,3 +9,4 @@ public class arr {
     } System.out.println(max);
  }
 }
+// output : 90
