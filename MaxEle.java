@@ -1,4 +1,4 @@
-public class arr {
+public class MaxEle {
     public static void main(String[] args) {
        int [] a = {1,10,5,2,5,6,90,1,2,4,8} ;
        int max =0;
